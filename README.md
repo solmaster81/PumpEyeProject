@@ -6,8 +6,6 @@
 
 This Telegram Bot notifies hot-trending tokens on pump.amm pools every 1 mintues sorted by price change percentages.
 
-For this project, I already bought my own dedicated RPC Server for Yellowstone Geyser plugin feature.
-
 ## RoadMap
 
 ### Step1. Alert Function (Already finished)
