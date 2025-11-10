@@ -1,4 +1,4 @@
-# Pump.fun Trending Token Alert & Sniping Bot ([Telegram](https://t.me/+N7WDkKC2rpU3YTFh))
+# Pump.fun Trending Token Alert & Sniping Bot ([Join Telegram Group](https://t.me/+N7WDkKC2rpU3YTFh))
 
 ![Telegram Bot Image](screenshot1.png)
 
