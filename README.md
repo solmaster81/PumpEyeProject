@@ -1,6 +1,6 @@
 # PumpEye Project
 
-## (Pump.fun Trending Token Sniping Bot) ([Join Telegram Group](https://t.me/+N7WDkKC2rpU3YTFh))
+## (Pump.fun Trending Token Sniping Bot) ([Vist here](https://t.me/+N7WDkKC2rpU3YTFh))
 
 ## Description
 
@@ -14,6 +14,14 @@ Thanks for your interest and support.
 
 ### PS: I launched [$PumpEye](https://pump.fun/coin/EuFS9FTZtfFJr9diapaWLEhQskW765Et6ULc7gDFpump) token for the purpose of marketing my PumpEye Project, not for getting profit and if this project would be helpful for you, then buy some token and keep it.
 
+## Link
+
+Telegram: [https://t.me/pumping_token_alert](https://t.me/+N7WDkKC2rpU3YTFh)
+
+Website: [https://pumpeye.pro](https://pumpeye.pro)
+
+Developer Tg Handle: [@victory_0801]
+
 ![Telegram Bot Image](screenshot1.png)
 
 ## RoadMap
@@ -25,11 +33,3 @@ It's been developed now.
 ### Step2. Sniping Function (Should Develop)
 
 Based on user settings, it will automatically snipe hot-trending tokens.
-
-## Link
-
-Bot Telegram Link: [https://t.me/pumping_token_alert](https://t.me/pumping_token_alert)
-
-Developer Telegram Link: [@victory_0801]
-
-##
