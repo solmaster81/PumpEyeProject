@@ -2,13 +2,13 @@
 
 ## Description
 
-As a Web3 Engineer on mainly Solana and one of crypto traders, I wanted to develop a tool which can help MeMe Coin Traders to succeed in meme coin hunting.
+As a Web3 Engineer primarily focused on Solana and an active crypto trader, I wanted to create a tool to help meme coin traders succeed in their hunting journey.
 
-This Telegram Bot notifies Hot-Trending pum.fun tokens which has been migrated to pump.amm pools so you can easily find pumping tokens.
+This Telegram bot notifies you about hot and trending Pump.fun tokens that have been migrated to Pump.AMM pools, making it easier to spot tokens that are gaining momentum.
 
-Hope all of you good luck in crypto trading.
+Wishing everyone the best of luck in your crypto trading adventures!
 
-Thanks for your kind interest.
+Thanks for your interest and support.
 
 ![Telegram Bot Image](screenshot1.png)
 
